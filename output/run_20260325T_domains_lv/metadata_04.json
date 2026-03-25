@@ -1,0 +1,17 @@
+{
+  "run_id": "run_20260325T_domains_lv",
+  "timestamp_utc": "2026-03-25T20:54:49.600325+00:00",
+  "python_version": "3.9.6 (default, Mar  6 2026, 16:22:43) \n[Clang 21.0.0 (clang-2100.0.123.102)]",
+  "platform": "macOS-26.3-arm64-arm-64bit",
+  "panel_sha256": "03fd9f42e1626b63847c8825971619add1e47eced106cecdf523d9375e62f444",
+  "panel_rows": 317,
+  "pds_panel_rows": 180,
+  "random_seed": 42,
+  "n_permutations": 5000,
+  "n_bootstrap": 5000,
+  "purpose": "Domain combinations and latent variable analysis for PCHE",
+  "section_a_n_combinations": 14,
+  "section_b_n_retain_7comp": 2,
+  "section_b_pc1_variance_7comp": 62.882464615256836,
+  "section_b_eigenvalue_ratio": 3.1815859560827007
+}
