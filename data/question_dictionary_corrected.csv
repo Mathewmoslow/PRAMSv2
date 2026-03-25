@@ -1,0 +1,230 @@
+question_id,question_text,min_year,max_year,n_rows,question_text_corrected
+QUO1,Indicator of baby being discharged from hospital within 48 hours of birth. (for vaginal deliveries only),2000,2011,327,Indicator of baby being discharged from hospital within 48 hours of birth. (for vaginal deliveries only)
+QUO10,Indicator of infant checkup within 1 week of hospital discharge for infants discharged within 48 hours,2000,2011,327,Indicator of infant checkup within 1 week of hospital discharge for infants discharged within 48 hours
+QUO100,Indicator of drinking any alcohol during the past two years,2000,2011,327,Indicator of drinking any alcohol during the past two years
+QUO101,Was your baby seen by a doctor  nurse or other health care provider in the first week after he or she left the hospital?,2000,2011,327,"Was your baby seen by a doctor, nurse or other health care provider in the first week after leaving the hospital?"
+QUO102,Reason for not getting H1N1 flu shot during pregnancy - shot was not available,2009,2009,27,Reason for not getting H1N1 flu shot during pregnancy - shot was not available
+QUO103,Indicator of receiving H1N1 flu shot during pregnancy,2009,2009,27,Indicator of receiving H1N1 flu shot during pregnancy
+QUO104,Reason for not getting H1N1 flu shot during pregnancy - normally do not get a flu shot,2009,2009,27,Reason for not getting H1N1 flu shot during pregnancy - normally do not get a flu shot
+QUO105,During your  pregnancy  did a doctor  nurse  or other health care worker offer you an H1N1 flu shot or tell you to get one?,2009,2009,27,During your  pregnancy  did a doctor  nurse  or other health care worker offer you an H1N1 flu shot or tell you to get one?
+QUO106,Reason for not getting H1N1 flu shot during pregnancy - some other reason,2009,2009,27,Reason for not getting H1N1 flu shot during pregnancy - some other reason
+QUO108,Reason for not getting H1N1 flu shot during pregnancy - doctor did not mention anything about getting the shot,2009,2009,27,Reason for not getting H1N1 flu shot during pregnancy - doctor did not mention anything about getting the shot
+QUO11,Indicator of Not Getting PNC as Soon as Desired Among Women Who Began PNC Late or Not at All,2000,2011,327,Indicator of Not Getting PNC as Soon as Desired Among Women Who Began PNC Late or Not at All
+QUO110,Reason for not getting H1N1 flu shot during pregnancy - afraid it would harm baby,2009,2009,27,Reason for not getting H1N1 flu shot during pregnancy - afraid it would harm baby
+QUO111,Reason for not getting H1N1 flu shot during pregnancy - worried about side effects,2009,2009,27,Reason for not getting H1N1 flu shot during pregnancy - worried about side effects
+QUO113,Indicator of receiving seasonal flu shot during pregnancy,2009,2009,27,Indicator of receiving seasonal flu shot during pregnancy
+QUO114,Reason for not getting seasonal flu shot during pregnancy - normally do not get a flu shot,2009,2009,27,Reason for not getting seasonal flu shot during pregnancy - normally do not get a flu shot
+QUO115,During your  pregnancy  did a doctor  nurse  or other health care worker offer you a seasonal flu shot or tell you to get one?,2009,2009,27,During your  pregnancy  did a doctor  nurse  or other health care worker offer you a seasonal flu shot or tell you to get one?
+QUO116,Reason for not getting seasonal flu shot during pregnancy - some other reason,2009,2009,27,Reason for not getting seasonal flu shot during pregnancy - some other reason
+QUO117,Reason for not getting seasonal flu shot during pregnancy - doctor did not mention anything about getting the shot,2009,2009,27,Reason for not getting seasonal flu shot during pregnancy - doctor did not mention anything about getting the shot
+QUO119,Reason for not getting seasonal flu shot during pregnancy - afraid it would harm baby,2009,2009,27,Reason for not getting seasonal flu shot during pregnancy - afraid it would harm baby
+QUO12,Indicator of whether baby is exposed to cigarette smoke.,2000,2008,241,Indicator of whether baby is exposed to cigarette smoke.
+QUO120,Reason for not getting seasonal flu shot during pregnancy - worried about side effects,2009,2009,27,Reason for not getting seasonal flu shot during pregnancy - worried about side effects
+QUO121,During your most recent pregnancy  did a doctor  nurse or other health care worker tell you that you had the flu?,2009,2009,27,During your most recent pregnancy  did a doctor  nurse or other health care worker tell you that you had the flu?
+QUO122,At any time during your most recent pregnancy  were you sick with a fever?,2009,2009,27,At any time during your most recent pregnancy  were you sick with a fever?
+QUO123,Indicator of hospitalization for the flu during pregnancy among those told they had the flu,2009,2009,27,Indicator of hospitalization for the flu during pregnancy among those told they had the flu
+QUO124,Indicator of receiving any flu shot(s) during pregnancy,2009,2009,27,Indicator of receiving any flu shot(s) during pregnancy
+QUO126,Have you ever heard or read that taking the vitamin folic acid can help prevent some birth defects?,2000,2011,106,Have you ever heard or read that taking the vitamin folic acid can help prevent some birth defects?
+QUO129,During the 3 months before you got pregnant with your new baby  did you have asthma?,2002,2011,63,During the 3 months before you got pregnant with your new baby  did you have asthma?
+QUO130,(*PCH) During the 3 months before you got pregnant with your new baby  did you have high blood pressure (hypertension)?,2002,2011,63,(*PCH) During the 3 months before you got pregnant with your new baby  did you have high blood pressure (hypertension)?
+QUO131,During the 3 months before you got pregnant with your new baby  did you have heart problems?,2002,2011,63,During the 3 months before you got pregnant with your new baby  did you have heart problems?
+QUO132,During the 3 months before you got pregnant with your new baby  did you have anemia (poor blood  low iron)?,2002,2011,63,During the 3 months before you got pregnant with your new baby  did you have anemia (poor blood  low iron)?
+QUO133,During the 3 months before you got pregnant with your new baby  did you have depression?,2009,2011,33,During the 3 months before you got pregnant with your new baby  did you have depression?
+QUO134,During the 3 months before you got pregnant with your new baby  did you have epilepsy (seizures)?,2009,2011,33,During the 3 months before you got pregnant with your new baby  did you have epilepsy (seizures)?
+QUO135,During the 3 months before you got pregnant with your new baby  did you have thyroid problems?,2009,2011,33,During the 3 months before you got pregnant with your new baby  did you have thyroid problems?
+QUO136,Reason for refusing HIV test - afraid of getting test results,2004,2011,51,Reason for refusing HIV test - afraid of getting test results
+QUO137,Reason for refusing HIV test - previously tested for HIV,2004,2011,75,Reason for refusing HIV test - previously tested for HIV
+QUO138,Reason for refusing HIV test - some other reason,2004,2011,74,Reason for refusing HIV test - some other reason
+QUO139,Reason for refusing HIV test - did not think she was at risk for HIV,2004,2011,76,Reason for refusing HIV test - did not think she was at risk for HIV
+QUO14,At any time during your most recent pregnancy or delivery  did you have a test for HIV?,2000,2011,273,At any time during your most recent pregnancy or delivery  did you have a test for HIV?
+QUO140,Reason for refusing HIV test - did not want others to think she was at risk for HIV,2004,2011,44,Reason for refusing HIV test - did not want others to think she was at risk for HIV
+QUO141,Indicator of whether an HIV test was offered among women not receiving the test,2004,2011,78,Indicator of whether an HIV test was offered among women not receiving the test
+QUO142,Indicator of whether an HIV test was refused among women offered the test,2004,2011,76,Indicator of whether an HIV test was refused among women offered the test
+QUO143,Indicator of infant currently alive,2000,2011,327,Indicator of infant currently alive
+QUO144,Indicator of infant currently living with the mother,2000,2011,327,Indicator of infant currently living with the mother
+QUO149,Did you have any vaginal bleeding during your pregnancy?,2000,2011,327,Did you have any vaginal bleeding during your pregnancy?
+QUO15,After your baby was born  was he or she put in an intensive care unit?,2000,2011,327,After your baby was born  was he or she put in an intensive care unit?
+QUO150,Were you injured in a car accident during your pregnancy?,2000,2011,327,Were you injured in a car accident during your pregnancy?
+QUO151,Did your cervix have have to be sewn shut (incompetent cervix  cerclage) during your pregnancy?,2000,2011,327,Did your cervix have have to be sewn shut (incompetent cervix  cerclage) during your pregnancy?
+QUO152,Indicator of whether mother reported having diabetes that began before recent pregnancy (years 2004-2008),2004,2008,142,Indicator of whether mother reported having diabetes that began before recent pregnancy (years 2004-2008)
+QUO153,Indicator of whether mother reported having gestational diabetes (years 2004-2008),2004,2008,142,Indicator of whether mother reported having gestational diabetes (years 2004-2008)
+QUO154,Did you have a kidney or bladder (urinary tract) infection during your pregnancy?,2000,2011,327,Did you have a kidney or bladder (urinary tract) infection during your pregnancy?
+QUO155,Did you have preterm or early labor during your pregnancy?,2000,2011,327,Did you have preterm or early labor during your pregnancy?
+QUO156,Did you have any severe nausea  vomiting  or dehydration during your pregnancy?,2000,2011,327,Did you have any severe nausea  vomiting  or dehydration during your pregnancy?
+QUO157,Did you have any placenta problems (such as abruptio placental  placenta previa) during your pregnancy?,2000,2011,327,Did you have any placenta problems (such as abruptio placental  placenta previa) during your pregnancy?
+QUO158,Did your water break more than 3 weeks before your due date (premature rupture of membranes  PROM) during your pregnancy?,2000,2011,327,Did your water break more than 3 weeks before your due date (premature rupture of membranes  PROM) during your pregnancy?
+QUO159,Reason for not using contraception at conception- problems getting birth control,2000,2011,327,Reason for not using contraception at conception- problems getting birth control
+QUO160,Reason for not using contraception at conception- husband or partner did not want to,2000,2011,327,Reason for not using contraception at conception- husband or partner did not want to
+QUO161,Reason for not using contraception at conception- didn't mind getting pregnant,2000,2011,327,Reason for not using contraception at conception- didn't mind getting pregnant
+QUO162,Reason for not using contraception at conception - some other reason,2000,2011,327,Reason for not using contraception at conception - some other reason
+QUO163,Reason for not using contraception at conception - had side effects from birth control,2000,2011,327,Reason for not using contraception at conception - had side effects from birth control
+QUO164,Reason for not using contraception at conception - thought she or partner was sterile,2000,2011,327,Reason for not using contraception at conception - thought she or partner was sterile
+QUO165,Reason for not using contraception at conception - thought she could not get pregnant at that time,2000,2011,327,Reason for not using contraception at conception - thought she could not get pregnant at that time
+QUO168,Indicator of baby born in a hospital,2000,2011,327,Indicator of baby born in a hospital
+QUO169,Indicator of mother delivering in a hospital,2000,2011,327,Indicator of mother delivering in a hospital
+QUO17,Just before you got pregnant  were you on Medicaid? (years 2000 - 2008),2000,2008,241,Just before you got pregnant  were you on Medicaid? (years 2000 - 2008)
+QUO170,Indicator of whether mother reported having gestational diabetes (years 2009 - 2011),2009,2011,86,Indicator of whether mother reported having gestational diabetes (years 2009 - 2011)
+QUO171,Indicator of no prenatal care,2000,2011,326,Indicator of no prenatal care
+QUO175,(*PCH) Indicator of previous fetal death  stillbirth  or miscarriage,2004,2011,27,(*PCH) Indicator of previous fetal death  stillbirth  or miscarriage
+QUO176,(*PCH) Indicator of previous preterm birth,2000,2011,327,(*PCH) Indicator of previous preterm birth
+QUO177,Indicator of pre-pregnancy diabetes check,2009,2011,86,Indicator of pre-pregnancy diabetes check
+QUO178,Indicator of pre-pregnancy dieting to lose weight,2009,2011,86,Indicator of pre-pregnancy dieting to lose weight
+QUO179,Indicator of pre-pregnancy exercise 3 or more days a  week,2009,2011,86,Indicator of pre-pregnancy exercise 3 or more days a week
+QUO18,Indicator of whether mother went to the hospital and stayed more than 7 days for a pregnancy-related complication (years 2000-2003),2000,2003,99,Indicator of whether mother went to the hospital and stayed more than 7 days for a pregnancy-related complication (years 2000-2003)
+QUO180,Indicator of pre-pregnancy blood pressure check,2009,2011,86,Indicator of pre-pregnancy blood pressure check
+QUO181,Indicator of pre-pregnancy family medical history discussion,2009,2011,86,Indicator of pre-pregnancy family medical history discussion
+QUO183,Indicator of pre-pregnancy taking prescription medication other than birth control,2009,2011,86,Indicator of pre-pregnancy taking prescription medication other than birth control
+QUO185,Baby always or almost always rides in an infant car seat,2000,2011,79,Baby always or almost always rides in an infant car seat
+QUO186,There are loaded guns  rifles  or other firearms in the home,2000,2011,73,There are loaded guns  rifles  or other firearms in the home
+QUO187,Baby was brought home from the hospital in an infant car seat,2000,2011,79,Baby was brought home from the hospital in an infant car seat
+QUO188,Home has a working smoke alarm,2000,2011,79,Home has a working smoke alarm
+QUO19,Indicator of whether mother went to the hospital and stayed more than 7 days for a pregnancy-related complication (years 2004-2008),2004,2008,139,Indicator of whether mother went to the hospital and stayed more than 7 days for a pregnancy-related complication (years 2004-2008)
+QUO197,In the 12 months before your baby was born  you argued with your husband or partner more than usual,2000,2011,327,"In the 12 months before your baby was born, you argued with your husband or partner more than usual"
+QUO198,In the 12 months before your baby was born  you had a lot of bills you could not pay,2000,2011,327,In the 12 months before your baby was born  you had a lot of bills you could not pay
+QUO199,In the 12 months before your baby was born  someone very close to you died,2000,2011,327,In the 12 months before your baby was born  someone very close to you died
+QUO2,(*PCH) Indicator of postpartum contraception use,2000,2011,327,(*PCH) Indicator of postpartum contraception use
+QUO20,"(*PCH) During the 12 months before you got pregnant  did your husband or partner push  hit  slap, kick, choke, or physically hurt you in any other way?",2000,2011,327,"(*PCH) During the 12 months before you got pregnant  did your husband or partner push  hit  slap, kick, choke, or physically hurt you in any other way?"
+QUO200,In the 12 months before your baby was born  someone very close to you had a bad problem with drinking or drugs,2000,2011,327,In the 12 months before your baby was born  someone very close to you had a bad problem with drinking or drugs
+QUO201,In the 12 months before your baby was born  you got separated or divorced from your husband or partner,2000,2011,327,In the 12 months before your baby was born  you got separated or divorced from your husband or partner
+QUO202,Indicator of any emotional-related stressors reported,2000,2011,327,Indicator of any emotional-related stressors reported
+QUO203,Indicator of any financial-related stressors reported,2000,2011,327,Indicator of any financial-related stressors reported
+QUO204,In the 12 months before your baby was born  a close family member was very sick and had to go into the hospital,2000,2011,327,In the 12 months before your baby was born  a close family member was very sick and had to go into the hospital
+QUO205,In the 12 months before your baby was born  you were in a physical fight,2000,2011,327,In the 12 months before your baby was born  you were in a physical fight
+QUO206,In the 12 months before your baby was born  you were homeless,2000,2011,327,In the 12 months before your baby was born  you were homeless
+QUO207,In the 12 months before your baby was born  you or your husband or partner went to jail,2000,2011,327,In the 12 months before your baby was born  you or your husband or partner went to jail
+QUO208,In the 12 months before your baby was born  your husband or partner lost his job,2000,2011,327,In the 12 months before your baby was born  your husband or partner lost his job
+QUO209,In the 12 months before your baby was born  you moved to a new address,2000,2011,327,In the 12 months before your baby was born  you moved to a new address
+QUO21,During your most recent pregnancy  did your husband or partner physically hurt you in any way?,2000,2011,327,During your most recent pregnancy  did your husband or partner physically hurt you in any way?
+QUO210,Indicator of any partner-related stressors reported,2000,2011,327,Indicator of any partner-related stressors reported
+QUO212,Indicator of any trauma-related stressors reported,2000,2011,327,Indicator of any trauma-related stressors reported
+QUO213,In the 12 months before your baby was born  you lost your job even though you wanted to go on working,2000,2011,327,In the 12 months before your baby was born  you lost your job even though you wanted to go on working
+QUO215,During any of your prenatal care visits  did a doctor  nurse  or other health care worker talk with you about how using illegal drugs could affect your baby?,2000,2011,327,During any of your prenatal care visits  did a doctor  nurse  or other health care worker talk with you about how using illegal drugs could affect your baby?
+QUO216,During any of your prenatal care visits  did a doctor  nurse  or other health care worker talk with you about medicines that are safe to take during your pregnancy?,2000,2011,327,During any of your prenatal care visits  did a doctor  nurse  or other health care worker talk with you about medicines that are safe to take during your pregnancy?
+QUO217,During any of your prenatal care visits  did a doctor  nurse  or other health care worker talk with you about how much weight you should gain during your pregnancy?,2000,2011,91,During any of your prenatal care visits  did a doctor  nurse  or other health care worker talk with you about how much weight you should gain during your pregnancy?
+QUO219,(*PCH) Indicator of whether mother reported frequent postpartum depressive symptoms (years 2009 - 2011),2009,2011,86,Indicator of whether mother reported frequent postpartum depressive symptoms (years 2009-2011)
+QUO222,(*PCH) Indicator of receiving any fertility drugs or treatment (for those trying to get pregnant only),2004,2011,73,(*PCH) Indicator of receiving any fertility drugs or treatment (for those trying to get pregnant only)
+QUO223,(*PCH) Indicator of receiving any fertility drugs or treatment,2004,2011,73,(*PCH) Indicator of receiving any fertility drugs or treatment
+QUO226,(*PCH) Indicator of whether mother reported having diabetes that began before recent pregnancy (years 2009 - 2011),2009,2011,86,(*PCH) Indicator of whether mother reported having diabetes that began before recent pregnancy (years 2009 - 2011)
+QUO227,(*PCH) Indicator of health insurance coverage in the month before pregnancy (years 2000-2008),2000,2008,238,(*PCH) Indicator of health insurance coverage in the month before pregnancy (years 2000-2008)
+QUO229,(*PCH) Indicator of health insurance coverage in the month before pregnancy (years 2009 - 2011),2009,2011,86,(*PCH) Indicator of health insurance coverage in the month before pregnancy (years 2009 - 2011)
+QUO231,(*PCH) During the 12 months before pregnancy  did your husband or partner threaten you  limit your activities against your will  or make you feel unsafe in any other way?,2009,2010,4,(*PCH) During the 12 months before pregnancy  did your husband or partner threaten you  limit your activities against your will  or make you feel unsafe in any other way?
+QUO232,During the 3 months before you got pregnant with your new baby  did you have anxiety?,2009,2011,33,During the 3 months before you got pregnant with your new baby  did you have anxiety?
+QUO237,Did you have a blood transfusion during your pregnancy?,2004,2011,228,Did you have a blood transfusion during your pregnancy?
+QUO238,Did you have high blood pressure during your pregnancy?,2004,2011,228,Did you have high blood pressure during your pregnancy?
+QUO239,Indicator of whether mother went to the hospital and stayed more than 1 day for a pregnancy-related complication (years 2000-2003),2000,2003,99,Indicator of whether mother went to the hospital and stayed more than 1 day for a pregnancy-related complication (years 2000-2003)
+QUO24,Indicator of Late (After First Trimester) or No Entry Into Prenatal Care,2000,2011,327,Indicator of Late (After First Trimester) or No Entry Into Prenatal Care
+QUO240,Indicator of whether mother went to the hospital and stayed more than 1 day for a pregnancy-related complication (years 2004-2008),2004,2008,139,Indicator of whether mother went to the hospital and stayed more than 1 day for a pregnancy-related complication (years 2004-2008)
+QUO241,(*PCH) Indicator of no birth control use at conception for those not trying to get pregnant,2004,2011,228,(*PCH) Indicator of no birth control use at conception for those not trying to get pregnant
+QUO242,(*PCH) Indicator of no birth control use at conception,2004,2011,228,(*PCH) Indicator of no birth control use at conception
+QUO244,(*PCH) Since your new baby was born  have you had a postpartum checkup for yourself?,2000,2011,146,(*PCH) Since your new baby was born  have you had a postpartum checkup for yourself?
+QUO246,(*PCH) Indicator of having received preconception counseling (years 2004-2008),2004,2008,31,(*PCH) Indicator of having received preconception counseling (years 2004-2008)
+QUO249,(*PCH) Indicator of mother having her teeth cleaned in 12 months prior to pregnancy (years 2009 - 2011),2009,2011,86,Indicator of mother having her teeth cleaned in 12 months prior to pregnancy (years 2009-2011)
+QUO25,Indicator of whether mother received Medicaid coverage for prenatal care.,2000,2011,327,Indicator of whether mother received Medicaid coverage for prenatal care.
+QUO252,(*PCH) Indicator of pre-pregnancy depression check,2009,2011,86,(*PCH) Indicator of pre-pregnancy depression check
+QUO254,(*PCH) Indicator of having received preconception counseling (years 2009-2011),2009,2011,14,(*PCH) Indicator of having received preconception counseling (years 2009-2011)
+QUO257,When you got pregnant with your new baby were you trying to become pregnant?,2000,2011,327,When you got pregnant with your new baby were you trying to become pregnant?
+QUO260,(*PCH) Indicator of whether smoking is allowed in home now,2003,2011,126,(*PCH) Indicator of whether smoking is allowed in home now
+QUO264,(*PCH) Indicator of adequate social support postpartum,2004,2011,29,(*PCH) Indicator of adequate social support postpartum
+QUO265,(*PCH) Indicator of unwanted pregnancy,2004,2011,228,(*PCH) Indicator of unwanted pregnancy
+QUO267,Indicator of whether Medicaid paid for delivery,2000,2011,327,Indicator of whether Medicaid paid for delivery
+QUO271,(*PCH) Indicator of binge drinking (4+ drinks) during 3 months before pregnancy,2009,2011,86,(*PCH) Indicator of binge drinking (4+ drinks) during 3 months before pregnancy
+QUO272,(*PCH) Indicator of mother having her teeth cleaned any time prior to pregnancy (years 2004 - 2008),2004,2008,83,(*PCH) Indicator of mother having her teeth cleaned any time prior to pregnancy (years 2004 - 2008)
+QUO273,Just before you got pregnant  were you on Medicaid? (years 2009 - 2011),2005,2011,91,Just before you got pregnant  were you on Medicaid? (years 2009 - 2011)
+QUO28,Indicator of whether baby is most often laid on his or her back to sleep,2000,2011,327,Indicator of whether baby is most often laid on his or her back to sleep
+QUO285,Barrier to prenatal care - couldnt take time off from work (years 2004-2008),2004,2008,142,Barrier to prenatal care - couldnt take time off from work (years 2004-2008)
+QUO286,Barrier to prenatal care - did not want anyone to know about the pregnancy (years 2004-2008),2004,2008,142,Barrier to prenatal care - did not want anyone to know about the pregnancy (years 2004-2008)
+QUO287,Barrier to early prenatal care - couldn't get an appointment earlier (years 2000-2003),2000,2003,99,Barrier to early prenatal care - couldn't get an appointment earlier (years 2000-2003)
+QUO288,Barrier to early prenatal care - too many other things going on (years 2000-2003),2000,2003,99,Barrier to early prenatal care - too many other things going on (years 2000-2003)
+QUO289,Barrier to early prenatal care - no one to take care of children (years 2000-2003),2000,2003,99,Barrier to early prenatal care - no one to take care of children (years 2000-2003)
+QUO29,Indicator of whether baby is most often laid on his or her stomach to sleep,2000,2011,327,Indicator of whether baby is most often laid on his or her stomach to sleep
+QUO290,Barrier to early prenatal care - did not have Medicaid card (years 2000-2003),2000,2003,99,Barrier to early prenatal care - did not have Medicaid card (years 2000-2003)
+QUO291,Barrier to early prenatal care - didn't have enough money or insurance to pay for visits (years 2000-2003),2000,2003,99,Barrier to early prenatal care - didn't have enough money or insurance to pay for visits (years 2000-2003)
+QUO292,Barrier to early prenatal care - didn't know that I was pregnant (years 2000-2003),2000,2003,99,Barrier to early prenatal care - didn't know that I was pregnant (years 2000-2003)
+QUO293,Barrier to early prenatal care - other reason (years 2000-2003),2000,2003,99,Barrier to early prenatal care - other reason (years 2000-2003)
+QUO294,Barrier to early prenatal care - the doctor or health plan would not start care earlier (years 2000-2003),2000,2003,99,Barrier to early prenatal care - the doctor or health plan would not start care earlier (years 2000-2003)
+QUO295,Barrier to early prenatal care - no way to get to the clinic or doctor's office (years 2000-2003),2000,2003,99,Barrier to early prenatal care - no way to get to the clinic or doctor's office (years 2000-2003)
+QUO296,Did you get prenatal care as early in your pregnancy as you wanted? (years 2000-2008),2000,2008,241,Did you get prenatal care as early in your pregnancy as you wanted? (years 2000-2008)
+QUO297,Did you get prenatal care as early in your pregnancy as you wanted? (years 2009-2011),2009,2011,86,Did you get prenatal care as early in your pregnancy as you wanted? (years 2009-2011)
+QUO298,"Source of household income - aid such as TANF, welfare, Food Stamps, or SSI (years 2000-2003)",2000,2003,99,"Source of household income - aid such as TANF, welfare, Food Stamps, or SSI (years 2000-2003)"
+QUO299,"Source of household income - aid such as TANF, welfare, WIC, Food Stamps, or SSI (years 2004-2008)",2004,2008,142,"Source of household income - aid such as TANF, welfare, WIC, Food Stamps, or SSI (years 2004-2008)"
+QUO3,Indicator of contraceptive use at time of pregnancy among women with an unintended pregnancy,2000,2011,327,Indicator of contraceptive use at time of pregnancy among women with an unintended pregnancy
+QUO30,(*PCH) Indicator for whether mother smoked during the three months before getting pregnant,2000,2011,327,(*PCH) Indicator for whether mother smoked during the three months before getting pregnant
+QUO300,"Source of household income - aid such as TANF, welfare, or SSI (years 2009-2011)",2009,2011,12,"Source of household income - aid such as TANF, welfare, or SSI (years 2009-2011)"
+QUO301,Source of household income - child support or alimony,2000,2011,253,Source of household income - child support or alimony
+QUO302,"Source of household income - money from a business, fees, dividends or rental income",2000,2011,253,"Source of household income - money from a business, fees, dividends or rental income"
+QUO303,Source of household income - money from family or friends,2000,2011,253,Source of household income - money from family or friends
+QUO304,Source of household income - paycheck or money from a job,2000,2011,253,Source of household income - paycheck or money from a job
+QUO305,Source of household income - some other source (years 2000-2003),2000,2003,99,Source of household income - some other source (years 2000-2003)
+QUO306,Source of household income - some other source (years 2004-2011),2004,2011,154,Source of household income - some other source (years 2004-2011)
+QUO307,"Source of household income - social security, worker's compensation, veterans benefits, or pensions (years 2000-2003)",2000,2011,116,"Source of household income - social security, worker's compensation, veterans benefits, or pensions (years 2000-2003)"
+QUO308,"Source of household income - social security, worker's compensation, disability, veterans benefits, or pensions (years 2004-2011)",2004,2008,139,"Source of household income - social security, worker's compensation, disability, veterans benefits, or pensions (years 2004-2011)"
+QUO309,Source of household income - unemployment benefits,2000,2003,99,Source of household income - unemployment benefits
+QUO31,Indicator for whether mother smoked during the last three months of pregnancy,2000,2011,327,Indicator for whether mother smoked during the last three months of pregnancy
+QUO310,Indicator of insurance before pregnancy (excluding Medicaid) (years 2000-2008),2000,2008,241,Indicator of insurance before pregnancy (excluding Medicaid) (years 2000-2008)
+QUO311,Indicator of no physical abuse before pregnancy,2000,2003,99,Indicator of no physical abuse before pregnancy
+QUO312,During the 12 months before you got pregnant  did anyone else physically hurt you in any way?,2000,2011,111,During the 12 months before you got pregnant  did anyone else physically hurt you in any way?
+QUO313,"During the 12 months before you got pregnant  did your ex-husband or ex-partner push  hit  slap, kick, choke, or physically hurt you in any other way?",2004,2011,151,"During the 12 months before you got pregnant, did your ex-husband or ex-partner push, hit, slap, kick, choke, or physically hurt you in any other way?"
+QUO314,During your most recent pregnancy  did anyone else physically hurt you in any way?,2000,2011,111,During your most recent pregnancy  did anyone else physically hurt you in any way?
+QUO315,"During your most recent pregnancy  did an ex-husband or ex-partner push  hit  slap, kick, choke, or physically hurt you in any other way?",2004,2011,151,"During your most recent pregnancy, did an ex-husband or ex-partner push, hit, slap, kick, choke, or physically hurt you in any other way?"
+QUO316,Indicator of no physical abuse during pregnancy,2000,2003,99,Indicator of no physical abuse during pregnancy
+QUO317,Indicator of whether private insurance paid for delivery,2000,2008,241,Indicator of whether private insurance paid for delivery
+QUO318,Indicator of whether personal income paid for delivery,2000,2008,241,Indicator of whether personal income paid for delivery
+QUO319,Indicator of whether other sources paid for delivery,2000,2011,327,Indicator of whether other sources paid for delivery
+QUO32,Indicator for whether mother currently smokes,2000,2011,327,Indicator for whether mother currently smokes
+QUO322,Indicator of whether private insurance paid for prenatal care,2000,2008,241,Indicator of whether private insurance paid for prenatal care
+QUO323,Indicator of whether personal income paid for prenatal care,2000,2008,241,Indicator of whether personal income paid for prenatal care
+QUO324,Indicator of whether other sources paid for prenatal care,2000,2011,327,Indicator of whether other sources paid for prenatal care
+QUO325,Indicator of whether residence contains one or more bathrooms,2000,2011,119,Indicator of whether residence contains one or more bathrooms
+QUO326,Indicator of whether residence contains one or more bedrooms,2000,2011,119,Indicator of whether residence contains one or more bedrooms
+QUO327,Indicator of whether residence contains a kitchen,2000,2011,119,Indicator of whether residence contains a kitchen
+QUO329,Have you smoked at least 100 cigarettes in the past 2 years?,2000,2008,241,Have you smoked at least 100 cigarettes in the past 2 years?
+QUO33,In the 12 months before your baby was born  your husband or partner said he did not want you to be pregnant.,2000,2011,327,In the 12 months before your baby was born  your husband or partner said he did not want you to be pregnant.
+QUO330,Have you smoked any cigarettes in the past 2 years? (years 2009-2011),2009,2011,86,Have you smoked any cigarettes in the past 2 years? (years 2009-2011)
+QUO332,During any of your prenatal care visits  did a doctor  nurse  or other health care worker talk with you about birth control methods to use after pregnancy?,2000,2008,241,During any of your prenatal care visits  did a doctor  nurse  or other health care worker talk with you about birth control methods to use after pregnancy?
+QUO333,During any of your prenatal care visits  did a doctor  nurse  or other health care worker talk with you about what to do if you feel depressed during pregnancy or after your baby is born?,2009,2011,86,During any of your prenatal care visits  did a doctor  nurse  or other health care worker talk with you about what to do if you feel depressed during pregnancy or after your baby is born?
+QUO334,During any of your prenatal care visits  did a doctor  nurse  or other health care worker talk with you about the signs and symptoms of preterm labor ?,2009,2011,86,During any of your prenatal care visits  did a doctor  nurse  or other health care worker talk with you about the signs and symptoms of preterm labor ?
+QUO336,Indicator of baby having a well-baby check-up,2000,2008,241,Indicator of baby having a well-baby check-up
+QUO34,Pregnancy Confirmation after the First Trimester,2000,2011,327,Pregnancy Confirmation after the First Trimester
+QUO35,During any of your prenatal care visits  did a doctor  nurse  or other health care worker talk with you about physical abuse to women by their husbands or partners?,2000,2011,327,During any of your prenatal care visits  did a doctor  nurse  or other health care worker talk with you about physical abuse to women by their husbands or partners?
+QUO36,During any of your prenatal care visits  did a doctor  nurse  or other health care worker talk with you about using a seat belt during your pregnancy ?,2000,2011,327,During any of your prenatal care visits  did a doctor  nurse  or other health care worker talk with you about using a seat belt during your pregnancy ?
+QUO364,Indicator of whether delivery was paid for by insurance through the military,2000,2011,168,Indicator of whether delivery was paid for by insurance through the military
+QUO365,Indicator of no insurance to pay for delivery,2009,2011,86,Indicator of no insurance to pay for delivery
+QUO366,Indicator of whether delivery was paid for by insurance purchased directly,2009,2011,86,Indicator of whether delivery was paid for by insurance purchased directly
+QUO367,Indicator of whether delivery was paid for by insurance through an employer,2009,2011,86,Indicator of whether delivery was paid for by insurance through an employer
+QUO368,Indicator of whether prenatal care was paid for by insurance through the military,2000,2011,163,Indicator of whether prenatal care was paid for by insurance through the military
+QUO369,Indicator of no insurance to pay for prenatal care,2009,2011,86,Indicator of no insurance to pay for prenatal care
+QUO37,During any of your prenatal care visits  did a doctor  nurse  or other health care worker talk with you about breastfeeding your baby?,2000,2011,327,During any of your prenatal care visits  did a doctor  nurse  or other health care worker talk with you about breastfeeding your baby?
+QUO370,Indicator of whether prenatal care was paid for by insurance purchased directly,2009,2011,86,Indicator of whether prenatal care was paid for by insurance purchased directly
+QUO371,Indicator of whether prenatal care was paid for by insurance through an employer,2009,2011,86,Indicator of whether prenatal care was paid for by insurance through an employer
+QUO38,During any of your prenatal care visits  did a doctor  nurse  or other health care worker talk with you about how drinking alcohol during pregnancy could affect your baby?,2000,2011,327,During any of your prenatal care visits  did a doctor  nurse  or other health care worker talk with you about how drinking alcohol during pregnancy could affect your baby?
+QUO39,During any of your prenatal care visits  did a doctor  nurse  or other health care worker talk with you about getting your blood tested for HIV?,2000,2011,327,During any of your prenatal care visits  did a doctor  nurse  or other health care worker talk with you about getting your blood tested for HIV?
+QUO4,Indicator of whether mother was still breastfeeding 4 weeks after delivery.,2000,2011,327,Indicator of whether mother was still breastfeeding 4 weeks after delivery
+QUO40,During any of your prenatal care visits  did a doctor  nurse  or other health care worker talk with you about how smoking during pregnancy could affect your baby?,2000,2011,327,During any of your prenatal care visits  did a doctor  nurse  or other health care worker talk with you about how smoking during pregnancy could affect your baby?
+QUO41,Indicator of whether mother took vitamins more than 4 times a week during the month prior to pregnancy,2000,2011,327,Indicator of whether mother took vitamins more than 4 times a week during the month prior to pregnancy
+QUO42,Indicator of sufficient well-baby care,2000,2008,126,Indicator of sufficient well-baby care
+QUO44,Indicator of whether mother was still breastfeeding 8 weeks after delivery.,2000,2011,327,Indicator of whether mother was still breastfeeding 8 weeks after delivery
+QUO5,Did you ever breastfeed or pump breast milk to feed your new baby after delivery?,2004,2011,228,Did you ever breastfeed or pump breast milk to feed your new baby after delivery?
+QUO65,(*PCH) During the month before you got pregnant with your new baby  did you take a daily multivitamin?,2000,2011,327,"During the month before you got pregnant with your new baby, did you take a daily multivitamin?"
+QUO66,During any of your prenatal care visits  did a doctor  nurse  or other health care worker talk with you about what to do if your labor starts early?,2000,2011,327,During any of your prenatal care visits  did a doctor  nurse  or other health care worker talk with you about what to do if your labor starts early?
+QUO67,During any of your prenatal care visits  did a doctor  nurse  or other health care worker talk with you about doing tests to screen for birth defects or diseases that run in your family?,2000,2011,327,During any of your prenatal care visits  did a doctor  nurse  or other health care worker talk with you about doing tests to screen for birth defects or diseases that run in your family?
+QUO69,Indicator for whether mother quit smoking during pregnancy (for smokers only),2000,2011,327,Indicator for whether mother quit smoking during pregnancy (for smokers only)
+QUO73,Indicator of whether infant usually sleeps in a shared bed.,2000,2011,182,Indicator of whether infant usually sleeps in a shared bed.
+QUO74,(*PCH) Indicator of whether mother reported frequent postpartum depressive symptoms(years 2004 - 2008).,2004,2008,102,Indicator of whether mother reported frequent postpartum depressive symptoms (years 2004-2008)
+QUO75,During your most recent pregnancy  did you have your teeth cleaned?,2004,2011,118,"During your most recent pregnancy, did you have your teeth cleaned?"
+QUO8,(*PCH) Indicator of drinking alcohol during the three months before pregnancy,2000,2011,327,(*PCH) Indicator of drinking alcohol during the three months before pregnancy
+QUO80,Reason for not using postpartum contraception - husband or partner does not want to,2000,2011,327,Reason for not using postpartum contraception - husband or partner does not want to
+QUO81,Reason for not using postpartum contraception - does not think she could become pregnant (sterile),2000,2011,327,Reason for not using postpartum contraception - does not think she could become pregnant (sterile)
+QUO82,Reason for not using postpartum contraception - not having sex,2000,2011,327,Reason for not using postpartum contraception - not having sex
+QUO83,Reason for not using postpartum contraception - some other reason,2000,2011,327,Reason for not using postpartum contraception - some other reason
+QUO84,Reason for not using postpartum contraception - cannot pay for birth control,2000,2011,325,Reason for not using postpartum contraception - cannot pay for birth control
+QUO85,Reason for not using postpartum contraception - currently pregnant,2000,2011,325,Reason for not using postpartum contraception - currently pregnant
+QUO86,Reason for not using postpartum contraception - wants to get pregnant,2000,2011,327,Reason for not using postpartum contraception - wants to get pregnant
+QUO87,Reason for not using postpartum contraception - does not want to use birth control,2000,2011,327,Reason for not using postpartum contraception - does not want to use birth control
+QUO89,Indicator of contraception use at the time of pregnancy (for those not trying to get pregnant),2000,2011,327,Indicator of contraception use at the time of pregnancy (for those not trying to get pregnant)
+QUO9,Indicator of whether mother reported having any alcoholic drinks during the last 3 months of pregnancy,2000,2011,327,Indicator of whether mother reported having any alcoholic drinks during the last 3 months of pregnancy
+QUO91,Before you got pregnant  did a doctor  nurse  or other health care worker talk to you about how to prepare for a healthy pregnancy and baby?,2004,2011,61,Before you got pregnant  did a doctor  nurse  or other health care worker talk to you about how to prepare for a healthy pregnancy and baby?
+QUO92,Indicator of ever having teeth cleaned,2004,2011,96,Indicator of ever having teeth cleaned
+QUO93,During your most recent pregnancy  did you need to see a dentist for a problem?,2000,2011,191,During your most recent pregnancy  did you need to see a dentist for a problem?
+QUO94,During your most recent pregnancy  did a dentist or dental worker talk to you about how to care for your teeth and gums?,2000,2011,193,During your most recent pregnancy  did a dentist or dental worker talk to you about how to care for your teeth and gums?
+QUO95,During your most recent pregnancy  did you go to a dentist or dental clinic?,2000,2011,192,During your most recent pregnancy  did you go to a dentist or dental clinic?
+QUO97,Did a doctor  nurse  or other health care worker talk with you about baby blues or postpartum depression during pregnancy or after your delivery?,2004,2011,67,"Did a doctor, nurse, or other health care worker talk with you about baby blues or postpartum depression during pregnancy or after your delivery?"

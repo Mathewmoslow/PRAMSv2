@@ -1,0 +1,28 @@
+{
+  "run_id": "run_20260325T_followup",
+  "timestamp_utc": "2026-03-25T19:54:50.944072+00:00",
+  "python_version": "3.9.6 (default, Mar  6 2026, 16:22:43) \n[Clang 21.0.0 (clang-2100.0.123.102)]",
+  "platform": "macOS-26.3-arm64-arm-64bit",
+  "panel_sha256": "03fd9f42e1626b63847c8825971619add1e47eced106cecdf523d9375e62f444",
+  "panel_rows": 317,
+  "pds_panel_rows": 180,
+  "random_seed": 42,
+  "n_permutations": 5000,
+  "n_bootstrap": 5000,
+  "purpose": "Follow-up addressing remaining IRB review items",
+  "outputs": [
+    "domain_subindex_analysis.csv",
+    "era_strict_variants.csv",
+    "followup_summary.txt",
+    "intentionality_sensitivity.csv",
+    "loso_strict_variants.csv",
+    "narrow_no_intent_sensitivity.csv",
+    "question_wording_appendix.csv",
+    "strict_preconception_sensitivity.csv",
+    "variant_comparison.csv",
+    "vif_primary_models.csv"
+  ],
+  "figures": [
+    "fig_variant_comparison.png"
+  ]
+}

@@ -1,0 +1,20 @@
+question_id,domain,timing,exact_prams_wording,years_available,in_primary_pche,in_strict_pche,in_narrow_pche
+QUO101,postpartum_engagement,postpartum,"Was your baby seen by a doctor, nurse or other health care provider in the first week after leaving the hospital?","2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011",True,False,False
+QUO16,intentionality,pre-pregnancy,Pregnancy was intended,not in panel,False,False,False
+QUO179,physical_activity,pre-pregnancy,Indicator of pre-pregnancy exercise 3 or more days a week,"2009, 2010, 2011",False,True,True
+QUO197,risk_anchor_partner_stress,12 months before birth,"In the 12 months before your baby was born, you argued with your husband or partner more than usual","2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011",False,False,False
+QUO210,risk_anchor_partner_stress,12 months before birth,Indicator of any partner-related stressors reported,"2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011",False,False,False
+QUO219,outcome_PDS,postpartum,Indicator of whether mother reported frequent postpartum depressive symptoms (years 2009-2011),"2009, 2010, 2011",False,False,False
+QUO249,preventive_health,pre-pregnancy,Indicator of mother having her teeth cleaned in 12 months prior to pregnancy (years 2009-2011),"2009, 2010, 2011",False,True,True
+QUO257,intentionality,pre-pregnancy,When you got pregnant with your new baby were you trying to become pregnant?,"2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011",True,True,True
+QUO296,prenatal_care,prenatal,Did you get prenatal care as early in your pregnancy as you wanted? (years 2000-2008),"2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008",False,True,False
+QUO297,prenatal_care,prenatal,Did you get prenatal care as early in your pregnancy as you wanted? (years 2009-2011),"2009, 2010, 2011",False,True,False
+QUO313,risk_anchor_IPV,before pregnancy,Physical IPV by ex-partner (before pregnancy),"2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011",False,False,False
+QUO315,risk_anchor_IPV,during pregnancy,Physical IPV by ex-partner (during pregnancy),"2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011",False,False,False
+QUO4,postpartum_engagement,postpartum,Indicator of whether mother was still breastfeeding 4 weeks after delivery,"2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011",True,False,False
+QUO41,nutritional,pre-pregnancy,Indicator of whether mother took vitamins more than 4 times a week during the month prior to pregnancy,"2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011",True,True,True
+QUO44,postpartum_engagement,postpartum,Indicator of whether mother was still breastfeeding 8 weeks after delivery,"2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011",True,False,False
+QUO5,postpartum_engagement,postpartum,Did you ever breastfeed or pump breast milk to feed your new baby after delivery?,"2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011",True,False,False
+QUO65,nutritional,pre-pregnancy,"During the month before you got pregnant with your new baby, did you take a daily multivitamin?","2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011",True,True,True
+QUO74,outcome_PDS,postpartum,Indicator of whether mother reported frequent postpartum depressive symptoms (years 2004-2008),"2004, 2005, 2006, 2007, 2008",False,False,False
+QUO75,preventive_health,prenatal,"During your most recent pregnancy, did you have your teeth cleaned?","2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011",False,True,False

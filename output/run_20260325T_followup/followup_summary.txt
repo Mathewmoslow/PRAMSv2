@@ -1,0 +1,120 @@
+# PCHE Follow-Up Analysis Summary
+
+**Run ID**: run_20260325T_followup
+**Timestamp**: 2026-03-25T19:55:19.969232+00:00
+**Seed**: 42
+**Panel SHA-256**: 03fd9f42e1626b63...
+**Panel rows**: 317, PDS panel: 180
+**N_PERMUTATIONS**: 5000, **N_BOOTSTRAP**: 5000
+
+## Item 1: Domain-Specific Sub-Index Analysis
+
+Tests whether PCHE moderation is driven by one domain.
+
+- nutritional x QUO197 (n=180): OLS beta=-0.2718, p=0.0438 *
+- nutritional x QUO210 (n=180): OLS beta=-0.2980, p=0.0202 *
+- intentionality x QUO197 (n=180): OLS beta=-0.5676, p=0.0001 *
+- intentionality x QUO210 (n=180): OLS beta=-0.5311, p=0.0001 *
+- postpartum_engagement x QUO197 (n=180): OLS beta=-0.4072, p=0.0041 *
+- postpartum_engagement x QUO210 (n=180): OLS beta=-0.3639, p=0.0089 *
+
+## Item 2: PCHE With and Without Intentionality (QUO257)
+
+- Cronbach's alpha (7-item primary): 0.8696 (n=180)
+- Cronbach's alpha (6-item without QUO257): 0.8378 (n=180)
+
+- pche_7_primary x QUO197 (n=180): OLS beta=-0.3614, p=0.0038
+- pche_6_no_intent x QUO197 (n=180): OLS beta=-0.3151, p=0.0121
+- pche_7_primary x QUO210 (n=180): OLS beta=-0.3512, p=0.0038
+- pche_6_no_intent x QUO210 (n=180): OLS beta=-0.3061, p=0.0125
+
+## Item 3: Strict Pre-Conception PCHE Variants
+
+- strict_preconception_8 x QUO197 (n=180, k=8): OLS beta=-0.4108, p=0.0020, perm p=0.1532, boot CI=[-0.7745, 0.0323]
+- strict_preconception_8 x QUO210 (n=180, k=8): OLS beta=-0.4153, p=0.0009, perm p=0.1314, boot CI=[-0.8268, -0.0172]
+- narrow_prepreg_5 x QUO197 (n=180, k=5): OLS beta=-0.4026, p=0.0025, perm p=0.1616, boot CI=[-0.7415, 0.0320]
+- narrow_prepreg_5 x QUO210 (n=180, k=5): OLS beta=-0.4060, p=0.0012, perm p=0.1402, boot CI=[-0.7695, 0.0101]
+
+## Item 4: Narrow Pre-Pregnancy Without Intentionality (4-item)
+
+The most conservative test: only unambiguous pre-pregnancy health behaviors.
+
+- narrow_no_intent x QUO197 (n=180): OLS beta=-0.3150, p=0.0169, perm p=0.2716
+- narrow_no_intent x QUO210 (n=180): OLS beta=-0.3359, p=0.0072, perm p=0.2316
+
+## Item 5: Era-Specific for Strict Variants
+
+- 2004-2008 strict_preconception_8 x QUO197 (n=97): beta=-0.3890, p=0.0023
+- 2004-2008 strict_preconception_8 x QUO210 (n=97): beta=-0.3845, p=0.0014
+- 2009-2011 strict_preconception_8 x QUO197 (n=83): beta=-0.7438, p=0.0006
+- 2009-2011 strict_preconception_8 x QUO210 (n=83): beta=-0.7766, p=0.0002
+- 2004-2008 narrow_prepreg_5 x QUO197 (n=97): beta=-0.3681, p=0.0053
+- 2004-2008 narrow_prepreg_5 x QUO210 (n=97): beta=-0.3693, p=0.0033
+- 2009-2011 narrow_prepreg_5 x QUO197 (n=83): beta=-0.7201, p=0.0008
+- 2009-2011 narrow_prepreg_5 x QUO210 (n=83): beta=-0.7370, p=0.0004
+- 2004-2008 narrow_no_intent_4 x QUO197 (n=97): beta=-0.2683, p=0.0475
+- 2004-2008 narrow_no_intent_4 x QUO210 (n=97): beta=-0.2918, p=0.0226
+- 2009-2011 narrow_no_intent_4 x QUO197 (n=83): beta=-0.6887, p=0.0016
+- 2009-2011 narrow_no_intent_4 x QUO210 (n=83): beta=-0.7164, p=0.0007
+
+## Item 6: LOSO for Strict Variants
+
+- strict_preconception_8 x QUO197: range=[-0.4621, -0.2757], mean=-0.4096, SD=0.0367, n_states=35
+- strict_preconception_8 x QUO210: range=[-0.4545, -0.2632], mean=-0.4147, SD=0.0321, n_states=35
+- narrow_prepreg_5 x QUO197: range=[-0.4540, -0.2620], mean=-0.4015, SD=0.0379, n_states=35
+- narrow_prepreg_5 x QUO210: range=[-0.4468, -0.2478], mean=-0.4052, SD=0.0341, n_states=35
+- narrow_no_intent_4 x QUO197: range=[-0.3558, -0.1536], mean=-0.3132, SD=0.0383, n_states=35
+- narrow_no_intent_4 x QUO210: range=[-0.3677, -0.2076], mean=-0.3347, SD=0.0317, n_states=35
+
+## Item 7: Question Wording Appendix
+
+Saved 19 question wordings to question_wording_appendix.csv
+
+## Item 8: Variant Comparison Figure
+
+- Primary 7-component x QUO197 (n=180): beta=-0.3614, cluster perm p=0.1718
+- Primary 7-component x QUO210 (n=180): beta=-0.3512, cluster perm p=0.1764
+- Full 12-component x QUO197 (n=180): beta=-0.4056, cluster perm p=0.1280
+- Full 12-component x QUO210 (n=180): beta=-0.3920, cluster perm p=0.1398
+- Without intent (6) x QUO197 (n=180): beta=-0.3151, cluster perm p=0.2384
+- Without intent (6) x QUO210 (n=180): beta=-0.3061, cluster perm p=0.2342
+- Strict pre-con (8) x QUO197 (n=180): beta=-0.4108, cluster perm p=0.1520
+- Strict pre-con (8) x QUO210 (n=180): beta=-0.4153, cluster perm p=0.1296
+- Narrow pre-preg (5) x QUO197 (n=180): beta=-0.4026, cluster perm p=0.1616
+- Narrow pre-preg (5) x QUO210 (n=180): beta=-0.4060, cluster perm p=0.1406
+- Narrow no intent (4) x QUO197 (n=180): beta=-0.3150, cluster perm p=0.2772
+- Narrow no intent (4) x QUO210 (n=180): beta=-0.3359, cluster perm p=0.2262
+
+## Item 9: VIF for Primary Models
+
+- QUO197 risk_z: VIF=2.30
+- QUO197 pche_z: VIF=1.92
+- QUO197 risk_x_pche: VIF=1.37
+- QUO210 risk_z: VIF=2.50
+- QUO210 pche_z: VIF=2.16
+- QUO210 risk_x_pche: VIF=1.35
+- QUO313 risk_z: VIF=3.31
+- QUO313 pche_z: VIF=1.74
+- QUO313 risk_x_pche: VIF=2.25
+- QUO315 risk_z: VIF=2.93
+- QUO315 pche_z: VIF=1.70
+- QUO315 risk_x_pche: VIF=2.00
+
+## FDR Correction (Benjamini-Hochberg)
+
+- strict_preconception_8 x QUO197: p=0.0020, q=0.0063 *
+- strict_preconception_8 x QUO210: p=0.0009, q=0.0049 *
+- narrow_prepreg_5 x QUO197: p=0.0025, q=0.0065 *
+- narrow_prepreg_5 x QUO210: p=0.0012, q=0.0050 *
+- narrow_no_intent x QUO197: p=0.0169, q=0.0194 *
+- narrow_no_intent x QUO210: p=0.0072, q=0.0115 *
+- nutritional x QUO197: p=0.0438, q=0.0438 *
+- nutritional x QUO210: p=0.0202, q=0.0216 *
+- intentionality x QUO197: p=0.0001, q=0.0009 *
+- intentionality x QUO210: p=0.0001, q=0.0009 *
+- postpartum_engagement x QUO197: p=0.0041, q=0.0073 *
+- postpartum_engagement x QUO210: p=0.0089, q=0.0129 *
+- pche_7_primary x QUO197: p=0.0038, q=0.0073 *
+- pche_6_no_intent x QUO197: p=0.0121, q=0.0154 *
+- pche_7_primary x QUO210: p=0.0038, q=0.0073 *
+- pche_6_no_intent x QUO210: p=0.0125, q=0.0154 *

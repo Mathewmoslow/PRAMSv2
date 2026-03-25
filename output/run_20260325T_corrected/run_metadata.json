@@ -1,0 +1,25 @@
+{
+  "run_id": "run_20260325T_corrected",
+  "timestamp_utc": "2026-03-25T19:46:09.865236+00:00",
+  "python_version": "3.9.6 (default, Mar  6 2026, 16:22:43) \n[Clang 21.0.0 (clang-2100.0.123.102)]",
+  "platform": "macOS-26.3-arm64-arm-64bit",
+  "panel_path": "/Users/mathewmoslow/Documents/AHU/PPD_Analysis/NovelPramsAnalysis_v2/data/panel_clean.csv",
+  "panel_sha256": "03fd9f42e1626b63847c8825971619add1e47eced106cecdf523d9375e62f444",
+  "panel_rows": 317,
+  "pds_panel_rows": 180,
+  "n_locations": 35,
+  "year_range": "2004-2011",
+  "random_seed": 42,
+  "n_permutations": 5000,
+  "n_bootstrap": 5000,
+  "min_n": 30,
+  "terminology": {
+    "outcome": "PDS (postpartum depressive symptoms)",
+    "construct": "PCHE (Pre-Conception Health Engagement)",
+    "never_use": [
+      "PPD prevalence",
+      "PCHA",
+      "Pre-Conception Health Agency"
+    ]
+  }
+}
